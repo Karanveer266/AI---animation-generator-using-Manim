@@ -51,3 +51,7 @@ Manim AI Animation Studio is an innovative web application that empowers users t
 - Professional Output: Produces publication-quality animations suitable for any platform.
 
 - Customizable and Extensible: Built for educators, creators, and learners alike.
+
+
+# Demo video 
+- https://www.dropbox.com/scl/fi/1yf6cussqbhu1p06i33bo/Menin-AI-app-Demo-video.mp4?rlkey=81dzbdebeeiwpuyskkxzf8zyy&st=uj45766q&dl=0
