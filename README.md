@@ -1,3 +1,7 @@
+
+# Demo video 
+- https://www.dropbox.com/scl/fi/1yf6cussqbhu1p06i33bo/Menin-AI-app-Demo-video.mp4?rlkey=81dzbdebeeiwpuyskkxzf8zyy&st=uj45766q&dl=0
+
 # Manim AI Animation Studio
 Manim AI Animation Studio is an innovative web application that empowers users to generate custom mathematical animations using natural language descriptions. By combining the power of Manim, the industry-standard Python animation engine for math visualization, with state-of-the-art large language models (LLMs) accessed via the OpenRouter API, this tool makes high-quality math animation accessible to everyone-no coding required.
 
@@ -52,6 +56,3 @@ Manim AI Animation Studio is an innovative web application that empowers users t
 
 - Customizable and Extensible: Built for educators, creators, and learners alike.
 
-
-# Demo video 
-- https://www.dropbox.com/scl/fi/1yf6cussqbhu1p06i33bo/Menin-AI-app-Demo-video.mp4?rlkey=81dzbdebeeiwpuyskkxzf8zyy&st=uj45766q&dl=0
